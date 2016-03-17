@@ -1,2 +1,3 @@
-# poptombox
-Download a POP mailbox to mbox
+# POP to mbox
+Download a mailbox via POP and store it as an mbox
+
